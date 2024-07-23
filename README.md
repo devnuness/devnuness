@@ -1,11 +1,10 @@
-## Hello, I am Adriane Oliveira. 👋
+## Hello, I am Renan de Souza Nunes. 
 
 - 🪄Future back-end or IA collaborator
-- 🌱 Studying Python, Java, and R
-- 📧 Contact me via email: adriaoliv@gmail.com
-- 😄 Pronouns: she/her
+- 🌱 Studying front-end
+- 📧 Contact me via email: renannunes1254@gmail.com
 
-![Adriaolivdev GitHub stats](https://github-readme-stats.vercel.app/api?username=adriolivdev&show_icons=true&theme=rose)
+![devnuness GitHub starts](https://github-readme-stats.vercel.app/api?username=devnuness&show_icons=true&theme=rose)
 
 ### Technologies I'm mastering now🚀
 
