@@ -4,7 +4,7 @@
 - 🌱 Studying front-end
 - 📧 Contact me via email: renannunes1254@gmail.com
 
-![devnuness GitHub starts](https://github-readme-stats.vercel.app/api?username=devnuness&show_icons=true&theme=rose)
+![devnuness GitHub starts](https://github-readme-stats.vercel.app/api?username=devnuness&show_icons=true&theme=green)
 
 ### Technologies I'm mastering now🚀
 
